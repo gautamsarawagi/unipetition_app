@@ -1,5 +1,3 @@
-Video Link: https://www.youtube.com/watch?v=FsuVyJOJa28
-
 Live Demo Link: https://unipetition.vercel.app/ (Use Metamask wallet to interact with our app)
 
 PPT: https://docs.google.com/presentation/d/15Gwb7dv4b9xSm8zoHdd1BT6adSTgR6hV/edit?usp=sharing&ouid=109721044222185215701&rtpof=true&sd=true
